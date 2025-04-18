@@ -1,5 +1,5 @@
 flask
-gunicornc
+gunicorn
 flask-cors
 PyPDF2
 pandas
